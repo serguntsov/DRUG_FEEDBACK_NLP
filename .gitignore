@@ -1,9 +1,7 @@
 # Byte-compiled / optimized / DLL files
 not_push.py
 catboost_info/
-./model
 model
-model.zip
 __pycache__/
 *.py[cod]
 *$py.class
